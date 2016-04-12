@@ -31,7 +31,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.starterkit.javafx.Startup</mainClass>
+							<mainClass>com.bartoszzychal.bookManager.Startup</mainClass>
 							<addClasspath>true</addClasspath>
 						</manifest>
 					</archive>
