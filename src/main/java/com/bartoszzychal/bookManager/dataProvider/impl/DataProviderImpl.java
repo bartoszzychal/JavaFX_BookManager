@@ -16,8 +16,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 
-import com.bartoszzychal.bookManager.bookMapper.BookJSONMapper;
 import com.bartoszzychal.bookManager.dataProvider.DataProvider;
+import com.bartoszzychal.bookManager.dataProvider.BookJSONMapper.BookJSONMapper;
 import com.bartoszzychal.bookManager.dataProvider.data.BookVO;
 
 public class DataProviderImpl implements DataProvider {

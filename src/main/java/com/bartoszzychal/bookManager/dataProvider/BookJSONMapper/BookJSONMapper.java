@@ -1,4 +1,4 @@
-package com.bartoszzychal.bookManager.bookMapper;
+package com.bartoszzychal.bookManager.dataProvider.BookJSONMapper;
 
 import java.util.Collection;
 import java.util.HashMap;
