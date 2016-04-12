@@ -78,7 +78,7 @@
                               <Label alignment="CENTER" contentDisplay="CENTER" layoutX="10.0" layoutY="13.0" prefHeight="33.0" prefWidth="253.0" text="%label.author" textAlignment="CENTER" textOverrun="CLIP" GridPane.columnIndex="1" />
                            </children>
                         </GridPane>
-                        <Button fx:id="findButton" defaultButton="true" layoutX="166.0" layoutY="74.0" mnemonicParsing="false" onAction="#findButton" prefHeight="35.0" prefWidth="150.0" text="Find books" />
+                        <Button fx:id="findButton" defaultButton="true" layoutX="166.0" layoutY="74.0" mnemonicParsing="false" onAction="#findButton" prefHeight="35.0" prefWidth="150.0" text="%button.find" />
                         <TableView fx:id="findTable" layoutY="115.0" prefHeight="247.0" prefWidth="500.0">
                           <columns>
                             <TableColumn fx:id="findId" maxWidth="800.0" prefWidth="50.0" resizable="true" text="%column.id" />
